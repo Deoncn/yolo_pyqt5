@@ -2,6 +2,7 @@
 <p>
    
    <img width="850" src="https://github.com/Deoncn/yolo_pyqt5/blob/master/many/img/image1.png">
+   <img width="850" src="https://github.com/Deoncn/yolo_pyqt5/blob/master/many/img/image2.png">
 </p>
 <br>
 <h2>
